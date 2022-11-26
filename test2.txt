@@ -1,3 +1,2 @@
 one more test file
-change second file
-one more change
+change second file 
